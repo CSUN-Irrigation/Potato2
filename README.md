@@ -1,6 +1,5 @@
-# potato2
-Senior Design Final Project: Kubernetes on Spot instances
-
+# Potato2
+Senior Design Final Project, Kubernetes on Spot Instance
 
 #### Tools/technology being used
 - Kubernetes
